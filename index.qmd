@@ -1,0 +1,237 @@
+---
+format:
+  revealjs:
+    theme: styles.scss
+    transition: fade
+    slide-number: true
+    wide: true
+    chalkboard: true
+    margin: 0.1
+    footer: "Health Economics and Policy | Fall 2026 | Session 2"
+    controls: true
+---
+
+::: {.title-slide}
+
+#  Using economics to study health issues
+
+<br>
+**Wu Zeng, MD, PHD**
+<br>
+
+Georgetown University
+
+:::
+
+---
+
+## Outline 
+
+- The relevance of economics in health care
+- Supply and demand
+- Equilibrium
+- Firm production
+- Welfare
+- Government interventions
+
+---
+
+## The relevance of economics in health care
+
+Economics:
+
+- is the study of human behavior
+- is a way of thinking
+- provides a systematic way of looking at a problem
+- provides a rationale for the efficient allocation of scarce resources
+
+---
+
+## Circular flow of economy
+
+:::: columns
+:::{.column width="50%"}
+- Decisions are made by households and firms.
+- Households and firms interact in the markets for goods and services (where
+households are buyers and firms are sellers) and in the markets for the factors of production (where firms are buyers and households are sellers).
+- The outer set of arrows shows the flow of dollars, and the inner set of arrows
+shows the corresponding flow of inputs and outputs.
+:::
+:::{.column width="50%"}
+:::
+::::
+
+---
+
+## Critical assumptions in economics
+
+- Rational Behavior
+  - Rational choice and self interest
+- Rational Ignorance
+  - Choosing between alternative actions with incomplete information
+- Scarcity
+
+---
+
+## The scientific method
+
+- Begins with a premise or postulate
+- The scientist observes real-world phenomena events
+- A theory is developed
+- A hypothesis is formulated
+- The hypothesis is tested
+
+---
+
+## Model Building; Problem Solving
+
+- Goal of economics is to understand, explain, and predict the behavior of
+decision-makers
+- Necessary to simplify that behavior by generalization, constructing a model
+- A model is a way of organizing knowledge to make it understandable
+- An economic model explains how the economy or part of it, works
+- Most microeconomic theory relies heavily on the rationality assumption
+- Classifies all decision-makers as optimizers
+
+---
+
+## Economic Optimization
+
+- Discovering the best course of action, given the decision-maker’s goals and objectives
+- Optimal decision-making
+  - Individual will continue to purchase a service as long as the marginal benefits from
+- Consumption exceed marginal costs
+  - Marginal decision-making
+  - If MB = MC (equilibrium is reached), no more purchasing/consumption
+Subsidized medical care tends to create overconsumption.
+
+---
+
+## Economic Optimization
+
+---
+
+## Supply and demand: Demand
+
+
+---
+
+## Catherine’s demand schedule and demand curve
+
+---
+
+## Change in quantity demanded vs. change in the level
+
+---
+
+## Shift in the demand curve
+
+---
+
+## Variables that can shift the demand curve
+
+---
+
+## Using the two approaches mentioned above to reduce the demand for smoking
+
+
+---
+
+## Price elasticity of demand
+
+---
+
+## Elasticity of demand
+
+---
+
+## Price elasticity of demand
+
+---
+
+## Elasticity of demand: Examples
+
+---
+
+## Determinants of price elasticity of demand
+
+
+---
+
+## Supply
+
+---
+
+## Supply curve
+
+---
+
+## Change in quantity supplied
+
+---
+
+## Shift in the supply curve
+
+---
+
+## Variables that can shift the supply curve
+
+---
+
+## Equilibrium
+
+---
+
+## Equilibrium of supply and demand
+
+---
+
+## Equilibrium, shortage and surplus
+
+---
+
+## The competitive model
+
+---
+
+## How prices allocate resources
+
+---
+
+## Competitive market
+
+---
+
+## The cost of production
+
+---
+
+## Production and costs
+
+---
+
+## Production and costs:
+
+---
+
+## Production function and total-cost curve
+
+---
+
+## Average costs and marginal cost
+
+---
+
+## Average costs and marginal cost
+
+--- 
+
+
+
+
+
+
+
+
+
+
