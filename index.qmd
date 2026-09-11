@@ -544,7 +544,7 @@ Assuming only two goods with a fixed income (e.g., Chicken and beef): [Budget li
 ::::{.two-col-grid}
 :::{.grid-item}
 
-<img src="/pic/Fig3.3.png" width= "600">
+<img src="./pic/Fig3.3.png" width= "600">
 
 :::
 :::{.grid-item}
