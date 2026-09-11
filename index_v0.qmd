@@ -1,0 +1,957 @@
+---
+format:
+  revealjs:
+    theme: styles.scss
+    transition: fade
+    slide-number: true
+    wide: true
+    chalkboard: true
+    margin: 0.1
+    footer: "Introduction to Health Economics | Fall 2026 | Session 2"
+    controls: true
+---
+
+::: {.title-slide}
+
+# Economic analysis Part I: Demand and measurement of demand
+
+Wu Zeng, MD, PHD
+
+<br>
+
+Associate Professor
+
+Department of Global Health
+
+Georgetown University
+
+`wz192@georgetown.edu`
+
+<br>
+
+[Claimer]{.themec}: I declares no conflict of interest
+
+:::
+
+---
+
+```{r setup, include=FALSE}
+
+knitr::opts_chunk$set(echo = FALSE, message = FALSE, warning = FALSE)
+
+```
+
+## Outline 
+
+:::: columns
+:::{.column width="50%"}
+
+### Economics approaches 
+- Study subjects 
+- Assumptions
+- Model building
+- Optimization
+
+:::
+
+:::{.column width="50%"}
+
+### Demand and law of demand 
+
+- Definition of demand
+- Law of demand and demand curve
+  - Derivation of demand curve
+- Shift of demand curve
+- Consumer surplus (benefit) to consumers
+:::
+::::
+
+---
+
+## [Economics]{.themec}
+
+- is the study of [human behavior]{.themec}
+- is a way of [thinking]{.themec}
+- provides a [systematic]{.themec} way of examining a problem
+- provides a rationale for the [efficient allocation]{.themec} of [scarce resources]{.themec}
+
+---
+
+## Opportunity cost 
+
+- Definition: Potential [benefit]{.themec} that could have been received if the resources had been used in their [next-best alternative]{.themec}
+
+::: incremental
+
+   - What are the most difficult decisions you have made? 
+   - What is the most valuable resource that you have? 
+
+:::
+
+---
+
+## Circular flow of economy
+
+:::: columns
+:::{.column width="50%"}
+- Decisions are made by [households]{.themec} and [firms]{.themec}.
+- Households and firms interact in the markets for [goods and services]{.themec} (where
+households are buyers and firms are sellers) and in the markets for the [factors of production]{.themec} (where firms are buyers and households are sellers).
+- The outer set of arrows shows the flow of [dollars]{.themec}, and the inner set of arrows
+shows the corresponding flow of [inputs and outputs]{.themec}.
+:::
+:::{.column width="50%"}
+
+<centrer>
+
+![](pic/S2-01.png){fig-align="center" width="80%"}
+
+</center>
+
+:::
+::::
+
+---
+
+## Critical assumptions in economics
+
+- Economic analysis is based on a set of [assumptions]{.themec} about the behavior of decision-makers
+  - [Scarcity]{.themec}, thus we have make choices 
+  - When making choices, we are [rational]{.themec} and [self-interested]{.themec}
+    - Maximize utility for consumers
+    - Maximize profit for producers
+    - Marginal analysis is the key to optimization for decision making
+- [Rational Ignorance]{.themec}
+  - Choosing between alternative actions with [incomplete]{.themec} information
+
+---
+
+## The scientific method
+
+- Begins with a [premise]{.themec} or [postulate]{.themec}
+- The scientist observes real-world [phenomena]{.themec} events
+- A [theory]{.themec} is developed
+- A [hypothesis]{.themec} is formulated
+- The [hypothesis]{.themec} is tested with data
+
+---
+
+## Model Building; Problem Solving
+
+- Goal of economics is to [understand, explain, and predict the behavior of
+decision-makers]{.themec}
+- Necessary to [simplify]{.themec} that behavior by generalization, constructing a model
+- A model is a way of organizing knowledge to make it understandable
+- An economic model explains how the economy or part of it, works
+- Most microeconomic theory relies heavily on the [rationality assumption]{.themec}
+- Classifies all decision-makers as [optimizers]{.themec}
+
+Example
+
+.   .   .
+
+$$ \text{Number of outpatient visits} = \alpha + \beta * \text{co-payment per visit} $$
+
+---
+
+## Economic Optimization 
+
+`Optimization` is the process of finding the best course of action, given the decision-maker’s goals and objectives.
+
+:::: columns
+:::{.column width="50%"}
+
+- Optimal decision-making
+  - Example: Individual will continue to purchase a service as long as the marginal benefits from consumption exceed marginal costs
+- Marginal decision-making
+  - If MB = MC (equilibrium is reached), no more purchasing/consumption
+  - However, [subsidized]{.themec} medical care tends to create [overconsumption]{.themec}.
+
+:::
+:::{.column width="50%"}
+
+<center>
+
+<img src="pic/S2-F2.png" width="80%" />
+
+</center>
+
+:::
+::::
+
+---
+
+## Economic Optimization
+
+- Economic optimization is a fundamental resource allocation questions, from the producer's perspective, the questions are:
+  - What do we produce?
+  - How do we produce it?
+  - Who gets it
+
+---
+
+## Marginal analysis 
+
+- Definition: is the study of the consequences of small changes in a variable or variables.
+
+- Marginal utility: The [change]{.themec} in [total utility]{.themec} derived from a [one unit increase in consumption]{.themec}
+
+- Marginal product: The [change]{.themec} in [total products]{.themec} derived from a [one unit increase in input]{.themec}
+
+<br />
+
+<center> 
+
+
+### Decision making is mostly based on [margin]{.themec} as margin is related to optimization
+
+</center>
+
+---
+
+## Why margin is related to optimization 
+
+### Consumer: 
+
+Assuming you are very thirsty, and would like to purchase ice water to quench thirst. One bottom of ice water cost $2. How many bottle do you want to have? or when will you stop buying the ice water?  
+
+::: {.fragment}
+
+Optimize utility for given budget constraints, consumer would consume the amount of goods till when [marginal utility (Benenfit)]{.themec} equals [marginal cost]{.themec}
+
+<br>
+
+<center> 
+
+### MB = MC 
+
+</center>
+
+:::
+
+::: {.fragment}
+
+When will you stop eating when having dinner in a buffet restaurant? In this case, what is the marginal cost? 
+
+:::
+
+
+---
+
+## Marginal thinking 
+
+### Marginal thinking is the heart of economics
+
+<center> 
+
+<iframe width="760" height="428" src="https://www.youtube.com/embed/IZm2v9Nl2hY" title="Essential Austrian Economics: Marginal Thinking" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</center>
+
+---
+
+## People make decision based on margins
+
+<center> 
+
+<iframe width="760" height="428" src="https://www.youtube.com/embed/WQdbdPFEwSo" title="Marginal Benefit and Marginal Cost" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</center>
+
+---
+
+## Discussion (3 minutes)
+
+### Please dicuss among yourself and come up with a example that the marginal analysis play a role in your decision making process in your real life.
+
+
+---
+
+## Demands {.center}
+
+<br>
+
+<center>
+
+### For any goods and services, we needs to consider both [supply (suppliers)]{.themec} and [demand (consumers)]{.themec} sides, Let us focus on the [demand side]{.themec} first
+
+</center>
+
+---
+
+## Demand
+
+:::: columns
+:::{.column width="50%"}
+
+- Demand 
+
+- Law of demand and demand curve
+
+  - Derivation of demand curve
+
+- Shift of demand surve
+
+- Consumer surplus (benefit) to consumers
+:::
+:::{.column width="50%"}
+
+<center>
+
+ <img src="https://www.economicsonline.co.uk/content/images/2023/06/Supply-and-Demand-4.webp" width="140%">
+
+</center>
+
+:::
+::::
+
+---
+
+## Demand (consumers)
+
+:::: columns
+:::{.column width="50%"}
+
+
+::: {.fragment}
+
+### Demand $\stackrel{?}{=}$ want and desire
+
+### Demand $\ne$ want and desire
+
+### Demand $=$ want + [ability/willing to pay]{.themec}
+
+Quantity demanded: Amount of a good that buyers are [willing]{.themec} and [able]{.themec} to purchase
+
+:::
+
+:::
+:::{.column width="50%"}
+
+<center>
+
+ <img src="https://www.economicsonline.co.uk/content/images/2023/06/Supply-and-Demand-4.webp" width="140%">
+
+</center>
+
+:::
+::::
+
+---
+
+## Law of demand and demand curve
+
+:::: columns
+:::{.column width="50%"}
+
+- The Law of Demand
+  - There is an [inverse]{.themec} relationship between the [amount]{.themec} of a commodity that a person will
+purchase and the [sacrifice (price)]{.themec} that must be made to obtain it
+- Changes in price affect the demand relationship in two ways
+  - Substitution effect: If the [price goes up]{.themec}, people may substitute a [cheaper alternative]{.themec} for the good
+  - Income effect: Paying higher prices reduces the consumer’s level of [satisfaction]{.themec}
+:::
+:::{.column width="50%"}
+
+<center>
+
+ <img src="https://www.economicsonline.co.uk/content/images/2023/06/Supply-and-Demand-4.webp" width="140%">
+
+</center>
+
+:::
+::::
+
+---
+
+## Demand curve
+
+:::: columns
+
+:::{.column width="50%"}
+
+### Moving [along]{.themec} the demand curve from [price]{.themec} change of the goods 
+
+- Ceteris paribus: holding all other factors constant, the demand curve shows the relationship between the price of a good and the quantity demanded.
+
+:::
+:::{.column width="50%"}
+
+<center>
+
+ <img src="https://www.economicsonline.co.uk/content/images/2023/06/Supply-and-Demand-4.webp" width="140%">
+
+</center>
+:::
+::::
+
+---
+
+## Why do people consume goods and services (Purchasing oranges and apples)?
+
+<br> <br> <br> <br> 
+
+<center>
+
+[Why do people consume goods and services (Purchasing oranges and apples)?](https://www.mentimeter.com/app/presentation/alkw2zrty4o78kx3wbfjtyspp6bdeqpb/present?question=qvu1usa6j9x1)
+
+</center>
+
+
+---
+
+## Relationship between consumption and utility 
+
+:::: columns
+:::{.column width="30%"}
+
+### Law of diminishing marginal utility
+
+- Diminishing marginal utility: A hypothesis that states that as consumption of a good increases so the marginal utility decreases.
+
+:::
+:::{.column width="70%"}
+
+<center>
+
+<img src="/pic/Fig3.9.png" width="50%">
+
+</center>
+
+:::
+::::
+
+---
+
+## How the demand curve is derived 
+
+### Remember: 
+
+1. The purpose of the consumption is to get [utility]{.themec}
+
+2. Every one has [budget constraints]{.themec}
+
+3. People have to make choice about [what to consume]{.themec} and its [quantity]{.themec}
+
+<br>
+
+<center> 
+
+### The consumers' choice is to [maximize utility]{.themec} given the existing [budget constraints]{.themec}
+
+</center>
+
+---
+
+## Budget constraints and utility maximization
+
+### Assuming only two goods with a fixed income (e.g., Chicken and beef): [Budget line]{.themec} and [isoquant]{.themec}
+
+:::: columns
+:::{.column width="50%"}
+
+<img src="/pic/Fig3.3.png" width= "600">
+
+:::
+:::{.column width="50%"}
+
+<img src="/pic/Fig3.4.png" width= "600">
+
+:::
+::::
+
+---
+
+## Change of the price of chicken 
+
+:::: columns
+:::{.column width="50%"}
+
+<img src="/pic/Fig3.5.png" width= "600">
+
+:::
+:::{.column width="50%"}
+
+<img src="/pic/Fig3.6.png" width= "600">
+
+:::
+::::
+
+---
+
+### Maximization utility for consumers given budget constraint
+
+> Example: A consumer has a budget of $100 to spend on two goods, X and Y. The prices of the goods are $10 for X and $20 for Y. The consumer wants to maximize their utility by choosing the optimal combination of X and Y.
+
+:::: columns
+:::{.column width="50%"}
+
+1. Maximize utility function: U(X, Y) = f(X,Y) = $X^{0.5} * Y^{0.5}$
+2. Subject to budget constraint: 10X + 20Y = 100
+
+Then, the graph of the maximization utility for consumers given budget constraint is shown below.
+
+:::
+:::{.column width="50%"}
+
+```{r fig.width=6, fig.height=6, echo=FALSE}
+# Load required library
+library(ggplot2)
+
+# Define the data range for X
+x_vals <- seq(0.1, 10, length.out = 100)
+
+# 1. Budget Line Equation: Y = (100 - 10X) / 20
+budget_line <- (100 - 10 * x_vals) / 20
+
+# 2. Indifference Curve (Isoquant) Equation: Y = U^2 / X
+# Since max utility U = sqrt(12.5) ~= 3.5355, U^2 = 12.5
+indifference_curve <- 12.5 / x_vals
+
+# Combine into a data frame
+df <- data.frame(
+  X = rep(x_vals, 2),
+  Y = c(budget_line, indifference_curve),
+  Type = rep(c("Budget Line", "Utility Isoquant (U = 3.54)"), each = 100)
+)
+
+# Filter out negative Y values for the budget line to keep the plot clean
+df <- df[df$Y >= 0, ]
+
+# Define the optimal consumption point
+optimal_point <- data.frame(X = 5, Y = 2.5)
+
+# Create the plot
+ggplot() +
+  # Plot the lines
+  geom_line(data = df, aes(x = X, y = Y, color = Type), size = 1.2) +
+  # Plot the optimal point
+  geom_point(data = optimal_point, aes(x = X, y = Y), color = "red", size = 4) +
+  # Label the optimal point
+  geom_text(data = optimal_point, aes(x = X, y = Y, label = "Optimal Point (5, 2.5)"), 
+            vjust = -1.5, hjust = 0.3, fontface = "bold") +
+  # Formatting axes and labels
+  labs(
+    title = "Consumer Optimization: Budget Line vs. Utility Isoquant",
+    x = "Quantity of X",
+    y = "Quantity of Y",
+    color = "Legend"
+  ) +
+  scale_color_manual(values = c("Budget Line" = "blue", "Utility Isoquant (U = 3.54)" = "darkgreen")) +
+  scale_x_continuous(limits = c(0, 10), breaks = seq(0, 10, 1)) +
+  scale_y_continuous(limits = c(0, 6), breaks = seq(0, 6, 1)) +
+  theme_classic() +
+  theme(
+    plot.title = element_text(face = "bold", size = 14, hjust = 0.5),
+    legend.position = "bottom",
+    axis.text = element_text(size = 18)
+  )
+```
+
+:::
+::::
+
+---
+
+## Relationship between (marginal) utility and consumption {visibility="hidden"}
+
+:::: columns
+:::{.column width="50%"}
+
+#### Total utility and consumption 
+```{r echo=F, out.width="80%"}
+x <- c(seq(0, 8, 1))
+y <- c(0, 8, 15, 21, 26, 30, 33, 35, 36)
+c <- c(NA, 8, 7, 6, 5, 4, 3, 2, 1)
+d <- c(NA, 2, 3, 4, 5, 6, 7, 8, 9)
+dta1 <- data.frame(x, y, c, d)
+
+ggplot(dta1, aes(x=x, y=y)) +
+  geom_line() +
+  geom_point() +
+  labs(x="Consumption", y="Total utility") +
+  scale_x_continuous(n.breaks = 8) +
+  scale_y_continuous(limits = c(0,40), n.breaks = 8) +
+  theme_classic() +
+  theme(text = element_text(size=25))
+
+```
+
+:::
+::: {.column width="50%"}
+
+#### Marginal utility and consumption
+```{r echo=F, out.width="80%"}
+ggplot(dta1, aes(x=x, y=c)) +
+  geom_line() +
+  geom_point() +
+  labs(x="Consumption", y="Marginal utility") +
+  scale_x_continuous(n.breaks = 8) +
+  scale_y_continuous(limits = c(0,10), n.breaks = 8) +
+  theme_classic() +
+  theme(text = element_text(size=25))
+```
+- [Diminishing]{.themec} marginal utility
+:::
+::::
+
+---
+
+## Factors influencing the demand for goods or services
+
+. . .
+
+### Shift in demand curve 
+
+
+:::: columns
+:::{.column width="50%"}
+
+:::{.incremental}
+
+- Price of related goods 
+- The number oand type of people desiring the goods
+- Income 
+- Preference 
+- Expected future price and product availability
+
+:::
+:::
+:::{.column width="50%"}
+
+:::{.fragment}
+
+<img src="/pic/factors-affecting-demand.png" width="100%">
+
+:::
+:::
+::::
+
+---
+
+## Shift in demand curve
+
+:::: columns
+:::{.column width="50%"}
+
+- [Related goods]{.themec}
+
+  - Substitutes: Goods that can be used in [replacement]{.themec} of each other (e.g., Coke and Pepsi, butter and margarine, etc.). If the price of one good rises, the demand for its substitute will increase.
+
+  - Complements: Goods that are used [together]{.themec} (e.g., cars and gasoline, printers and ink cartridges, etc.). If the price of one good rises, the demand for its complement will decrease.
+
+:::
+:::{.column width="50%"}
+
+::: {.panel-tabset}
+
+### Substitutes
+
+<img src="/pic/S2-Sub.png" width="100%">
+
+
+### Complements
+
+<img src="/pic/S2-Comp.png" width="100%">
+
+:::
+:::
+::::
+
+---
+
+### Shift in demand curve
+
+::::columns 
+:::{.column width="50%"}
+
+- [Income]{.themec}
+
+  - Normal goods: Goods for which [demand increases]{.themec} as [income increases]{.themec} (e.g., organic food, luxury cars, etc.). If income rises, the demand for normal goods will increase.
+
+  - Inferior goods: Goods for which [demand decreases]{.themec} as [income increases]{.themec} (e.g., instant noodles, second-hand clothes, etc.). If income rises, the demand for inferior goods will decrease.
+
+:::
+
+:::{.column width="50%"}
+
+<center>
+
+<img src = "pic/S2-F7.JPG" width="800">
+
+</center>
+
+:::
+::::
+
+---
+
+## Using the two approaches mentioned above to reduce the demand for smoking
+
+:::::columns
+
+::::{.column width="50%"}
+:::{.fragment}
+:::{.block}
+:::{.block-header}
+Moving along the demand curve
+:::
+:::{.block-body}
+- Tax the manufacturer: higher price
+- 10% $\uparrow$ in price $\rightarrow$ 4% $\downarrow$ in smoking
+- Teenagers: 10% $\uparrow$ in price $\rightarrow$ 12% $\downarrow$ in smoking
+:::
+:::
+:::
+::::
+
+
+::::{.column width="50%"}
+:::{.fragment}
+:::{.block}
+:::{.block-header}
+Shift the demand curve
+:::
+:::{.block-body}
+- Public service announcements
+- Mandatory health warnings on cigarette packages
+- Prohibition of cigarette advertising on television
+- If successful, shift demand curve to the left
+:::
+:::
+:::
+::::
+:::::
+
+
+---
+
+## Benefit of consumers as a whole will get: Consumer surplus 
+
+  - Consumer surplus: The value placed on goods by consumers minus the cost to the consumers
+
+  <center>
+  
+  <iframe width="900" height="400" src="https://www.youtube.com/embed/oL20S7c0ZJE" title="What Is Consumer Surplus?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  
+</center>
+
+---
+
+## Measure of demand: Price elasticity of demand
+
+- Measure of responsiveness 
+  - Slope 
+$$slope = \frac{\Delta Q}{\Delta P}$$
+  - Elasticity (price elasticity of demand) 
+$$e = \frac{\Delta \%Q}{\Delta \%P}$$
+
+> The main purpose of using percentage change is to remove the impact from [unit]{.themec} differences [across different goods or service]{.themec} differences
+
+---
+
+##  Price elasticity of demand (example)
+
+> If the price increase from $10 to $12, the physician visits is reduced from 4 visits per year to 3.5 per year. What is the [price elasticity]{.themec} of the demand for physican visits?
+
+. . .
+
+First approach: 
+
+  $$e_D = \frac{\frac{3.5-4}{4}}{\frac{12-10}{10}} = -0.625$$ 
+
+. . .
+
+Some may argue what if the situation is reversed, the price drop from $12 to $10. The visit would increase from 3.5 to 4 visit per year. The elasticity would be: 
+
+. . .
+
+$$e_D = \frac{\frac{4-3.5}{3.5}}{\frac{10-12}{12}} = -0.857$$
+
+Should not they be the same?
+
+. . .
+
+Mid-point approach. 
+
+
+$$      e_D = \frac{\frac{3.5-4}{(4+3.5)/2}}{\frac{12-10}{(10+12)/2}} = -0.733  $$
+
+----
+
+## Formula for price elasticity of demand
+
+:::: columns
+:::{.column width="50%"}
+
+### Elasticity 
+
+$$e_d = \frac{\% \Delta Q_D}{\% \Delta P} = \frac{\frac{\Delta Q}{Q}}{\frac{\Delta P}{P}} = \frac{\Delta Q}{\Delta P} * \frac{P}{Q}$$
+> If you are given a formula for a demand curve, you can compute the elasticity of demand for any combination of price and quantity along that demand curve
+
+:::
+:::{.column width="50%"}
+
+### Demand curve $Q = 8- 2P$
+
+```{r fig.width=6, fig.height=6, echo=FALSE}
+ggplot(data.frame(x=c(0,8)), aes(x=x)) +
+  scale_y_continuous(limits = c(0,8)) +
+  labs(x="Q", y="P") + 
+  theme_classic() +
+  theme(text = element_text(size=30),
+      axis.ticks.length = unit(-2, "mm")) +
+  annotate("segment", x=0, xend = 8, y=4, yend = 0, color="red",
+           linetype = 2, size=1) +
+  annotate("text", x=1, y=4, label="e == - Inf", parse=T, size = 8) +
+  annotate("text", x=7, y=0.3, label="e == 0", parse=T, size = 8) +
+  annotate("segment", x=0, xend = 4, y=2, yend = 2, color="blue",
+           linetype = 2, size=1) +
+    annotate("segment", x=4, xend = 4, y=0, yend = 2, color="blue",
+           linetype = 2, size=1) +
+   annotate("text", x=4, y=2.5, label="e == 1", parse=T, size = 8)  
+```
+
+:::
+::::
+
+---
+
+## Inelastic and elastic demand
+
+- Elastic demand
+  - Quantity demanded responds [substantially]{.themec} to changes in price
+- Inelastic demand
+  - Quantity demanded responds only [slightly]{.themec} to changes in price
+
+::: {.panel-tabset}
+
+### Perfect inelastic
+
+```{r echo=FALSE, out.width="50%"}
+
+xyplot <- ggplot(data.frame(x=c(0,100)), aes(x=x)) +
+  labs(x="Q", y="P") + 
+  theme_classic() +
+  theme(axis.text.x=element_blank(),
+      axis.text.y=element_blank(),
+      text = element_text(size=20),
+      axis.ticks.length = unit(-2, "mm"))
+xyplot +
+  annotate("segment", x=10, xend = 10, y=0, yend = 50, linetype=2, color ="red")
+```
+
+elasticity = 0
+
+### Perfect elastic
+```{r echo=FALSE, out.width="50%"}
+xyplot +
+  annotate("segment", x=0, xend = 100, y=50, yend = 50, linetype=2, color ="red")
+```
+elasticity = $-\infty$
+
+### In between
+
+```{r echo=FALSE, out.width="50%"}
+dta2 <- data.frame(x=c(1,2,3), y=c(12,6, 14))
+eq1 <- function(x){12/x}
+
+xyplot2 <- ggplot(data.frame(x=c(1,4)), aes(x=x)) +
+  labs(x="Q", y="P") + 
+  theme_classic() +
+  theme(axis.text.x=element_blank(),
+      axis.text.y=element_blank(),
+      text = element_text(size=20),
+      axis.ticks.length = unit(-2, "mm"))
+
+xyplot2 + 
+  stat_function(fun = eq1)
+```
+
+:::
+
+---
+
+## Determinants of elasticity of demand
+
+- Availability of close substitutes
+  - Goods with close [substitutes]{.themec}: [more elastic demand]{.themec}
+- Necessities versus luxuries
+  - Necessities: inelastic demand
+  - Luxuries: elastic demand
+- Time horizon
+  - Demand is [more elastic]{.themec} over [longer]{.themec} time horizons
+
+---
+
+## Question test 
+
+> A group of students conducted a survey and found that if the price of banana is incease 
+from $0.5 to $0.6 per pound, the consumption of organge would increase from 2 to 2.5 
+pounds per month among consumpers. 
+
+What is the banana price elasticity of the demand for orange?
+
+. . .
+
+$$e_c = \frac{\%\Delta Q_a}{\%\Delta P_b} = \frac{\frac{Q_{After}-Q_{before}}{(Q_{After}+Q_{before})/2}}{\frac{P_{After}-P_{before}}{(P_{After}+P_{before})/2}} = \frac{\frac{2.5-2}{(2.5+2)/2}}{\frac{0.6-0.5}{(0.6+0.5)/2}} = 1.22$$
+
+. . . 
+
+> The same group of students also found that if the income of consumers increase by 10%, 
+the consumption of orange would increase by 15%. 
+
+  What is the income elasticity of the demand for orange? 
+
+. . . 
+
+$$e_i = \frac{\%\Delta Q_a}{\%\Delta Income} = \frac{15\%}{10\%} = 1.5 $$ 
+
+---
+
+## Example continue
+
+> A study found that if th global oil price increases by 10%, the supply of oil
+would increase by 5%. 
+
+What is the price elasticity for the supply of oil? 
+
+
+. . .
+
+$$e_s = \frac{\%\Delta Q_s}{\%\Delta P} = \frac{5\%}{10\%}=0.5$$
+
+---
+
+## Elasticity and health policy 
+
+- Elasticity and tobacco tax 
+
+- Tobacco taxation in Afghanistan
+
+---
+
+## Why economists care about tobacco tax
+
+### Tobacco [is NOT]{.themec} like most other products
+
+- Addictive
+
+- Very harmful to users and to others in society
+
+### Tobacco [IS like]{.themec} other products
+
+- Its demand responds to
+
+  - price changes relative to the price of other products
+  
+  - real income changes
+  
+  - changes in tastes and preferences
+  
+- We can apply the lessons of economics to reduce its use
+
+---
+
+## Questions and comments {.center}
+
