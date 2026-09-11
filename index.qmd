@@ -495,7 +495,7 @@ Ceteris paribus: holding all other factors constant, the demand curve shows the 
 
 <center>
 
-<img src="/pic/Fig3.9.png" width="50%">
+<img src="./pic/Fig3.9.png" width="50%">
 
 </center>
 
@@ -549,7 +549,7 @@ Assuming only two goods with a fixed income (e.g., Chicken and beef): [Budget li
 :::
 :::{.grid-item}
 
-<img src="/pic/Fig3.4.png" width= "600">
+<img src="./pic/Fig3.4.png" width= "600">
 
 :::
 ::::
@@ -561,12 +561,12 @@ Assuming only two goods with a fixed income (e.g., Chicken and beef): [Budget li
 ::::{.two-col-grid}
 :::{.grid-item}
 
-<img src="/pic/Fig3.5.png" width= "600">
+<img src="./pic/Fig3.5.png" width= "600">
 
 :::
 :::{.grid-item}
 
-<img src="/pic/Fig3.6.png" width= "600">
+<img src="./pic/Fig3.6.png" width= "600">
 
 :::
 ::::
@@ -710,7 +710,7 @@ Shift in demand curve
 :::{.grid-item}
 :::{.fragment}
 
-<img src="/pic/factors-affecting-demand.png" width="100%">
+<img src="./pic/factors-affecting-demand.png" width="100%">
 
 :::
 :::
@@ -735,12 +735,12 @@ Shift in demand curve
 
 ### Substitutes
 
-<img src="/pic/S2-Sub.png" width="100%">
+<img src="./pic/S2-Sub.png" width="100%">
 
 
 ### Complements
 
-<img src="/pic/S2-Comp.png" width="100%">
+<img src="./pic/S2-Comp.png" width="100%">
 
 :::
 :::
@@ -765,7 +765,7 @@ Shift in demand curve
 
 <center>
 
-<img src = "pic/S2-F7.JPG" width="800">
+<img src = "./pic/S2-F7.JPG" width="800">
 
 </center>
 
