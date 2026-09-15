@@ -740,7 +740,7 @@ Shift in demand curve
 
 ### Complements
 
-<img src="./pic/S2-Comp.png" width="100%">
+<img src="./pic/S2-comp.png" width="100%">
 
 :::
 :::
