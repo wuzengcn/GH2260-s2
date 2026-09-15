@@ -700,7 +700,7 @@ Shift in demand curve
 :::{.grid-item}
 :::{.incremental}
 - Price of related goods 
-- The number oand type of people desiring the goods
+- The number and type of people desiring the goods
 - Income 
 - Preference 
 - Expected future price and product availability
